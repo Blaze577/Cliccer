@@ -1,0 +1,10 @@
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\bin\Debug\clicker1.exe.config
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\bin\Debug\clicker1.exe
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\bin\Debug\clicker1.pdb
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.csproj.AssemblyReference.cache
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.Form1.resources
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.Properties.Resources.resources
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.csproj.GenerateResource.cache
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.csproj.CoreCompileInputs.cache
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.exe
+C:\Users\Błażej\Desktop\clicker1-master\clicker1\obj\Debug\clicker1.pdb
